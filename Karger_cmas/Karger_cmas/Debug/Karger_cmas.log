@@ -1,0 +1,15 @@
+﻿  Karger_cmas.cpp
+Karger_cmas.cpp(102): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Karger_cmas.cpp(104): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+Karger_cmas.cpp(105): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+Karger_cmas.cpp(107): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+Karger_cmas.cpp(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+Karger_cmas.cpp(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Karger_cmas.vcxproj -> E:\lagh3\Documents\2018-1\Complejidad\Semana13\Karger_cmas\Debug\Karger_cmas.exe
+  Karger_cmas.vcxproj -> E:\lagh3\Documents\2018-1\Complejidad\Semana13\Karger_cmas\Debug\Karger_cmas.pdb (Partial PDB)

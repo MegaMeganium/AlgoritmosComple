@@ -1,0 +1,4 @@
+Contract the edges: 0 <->2
+Contract the edges: 2 <->3
+
+Minimun Cut is=> 2
